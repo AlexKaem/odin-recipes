@@ -1,0 +1,1 @@
+This project serves as a overview of the lessons learned and if i am able to put the learned lessons to work.
